@@ -1,2 +1,2 @@
 # Matt_Portfolio
-Template project portfolio 
+Just a placeholder for now. More to come.  
